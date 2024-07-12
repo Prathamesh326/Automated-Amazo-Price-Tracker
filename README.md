@@ -41,8 +41,6 @@ To use this script:
 ## Disclaimer
 This script is for educational purposes only. Use it responsibly and in accordance with Amazon's terms of service. Automated scraping of websites may violate their terms.
 
-```
-
 ### Explanation:
 - **Overview**: Brief introduction to what the script does.
 - **Features**: Lists the key functionalities of the script.
