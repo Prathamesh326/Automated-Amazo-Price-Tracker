@@ -1,5 +1,4 @@
-```markdown
-# Amazon Price Tracker
+## Amazon Price Tracker
 
 ## Overview
 This Python script tracks the price of a specific product on Amazon and sends an email alert if the price drops below a specified target.
